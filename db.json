@@ -1,30 +1,11 @@
 {
   "users": [
-<<<<<<< HEAD
     {
-      "id": 13,
-      "name": "Nazar Kadaschvili",
-      "surname": "Kadaschvili",
-      "photo": "https://avatars.githubusercontent.com/u/113187064?v=4",
-      "balance": 1488.00
-    }
-    
-=======
-        {
-    id: 137,
-    name: "Adolf Hitler",
-    surname: "Hitler",
-    photo: "https://example.com/photo.jpg",
-    balance: 1939.00
-    }
->>>>>>> 74a23143fb56d0381c0cd68c9eeade1735b08a0a
-
-{
-    id: 117,
-    name: "Adolf Hitler",
-    surname: "Hitler",
-    photo: "https://example.com/photo.jpg",
-    balance: 1939.00
+    "id": 117,
+    "name": "Adolf Hitler",
+    "surname": "Hitler",
+    "photo": "https://example.com/photo.jpg",
+    "balance": 1939.00
     }
   ]
 }
