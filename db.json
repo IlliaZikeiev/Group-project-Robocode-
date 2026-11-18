@@ -1,5 +1,12 @@
 {
   "users": [
+    {
+      "id": 13,
+      "name": "Nazar Kadaschvili",
+      "surname": "Kadaschvili",
+      "photo": "https://avatars.githubusercontent.com/u/113187064?v=4",
+      "balance": 1488.00
+    }
     
   ]
 }
