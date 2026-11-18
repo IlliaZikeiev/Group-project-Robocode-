@@ -7,5 +7,12 @@
     "photo": "https://example.com/photo.jpg",
     "balance": 1939.00
     }
+    {
+    "id": 13,
+    "name": "Nazar Kadaschvili",
+    "surname": "Kadaschvili",
+    "photo": "https://example.com/photo2.jpg",
+    "balance": 1488.00
+    }
   ]
 }
