@@ -14,5 +14,11 @@
     "photo": "https://example.com/photo2.jpg",
     "balance": 1488.00
     }
-  ]
+  ],
+  
+  "info":{
+    "potujno": "tck",
+    "r": "tck",
+    "t": "tck"
+  }
 }
